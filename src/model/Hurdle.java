@@ -19,5 +19,6 @@ public class Hurdle {
     }
 
     public boolean isTapping() {
+        return true;
     }
 }
